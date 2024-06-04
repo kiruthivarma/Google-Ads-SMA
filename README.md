@@ -1,4 +1,4 @@
-# Google-Ads-SMA
+# Google Ads for SMA
 A guide that helps you in understanding Google Ads for your Social Media Agency!
 
 ### Major Parts in Google Ads
