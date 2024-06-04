@@ -35,10 +35,6 @@ Note:- Campaign Subtype, Goals may change according to the selection of Campaign
 	1. Google Suggestion while searching
 	2. Google "People also search for" or "Related searches" on result page
 
-###### Keyword Planner for Keyword Research Tutorial:-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o3kPguXNfS0?si=rWhU9YJq_aRGoon2&amp;start=1246" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 
 ### Type of Campaigns (Based on Objectives)
 1. Sales - Online sales, E commerce or in store
@@ -50,8 +46,6 @@ Note:- Campaign Subtype, Goals may change according to the selection of Campaign
 7. Local store visits - To drive more customers to hotels, colleges, parks etc.,
 8. Create a campaign without goal's guidance - Create a new campaign other than predefined ones.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o3kPguXNfS0?si=2fy9C_FyoiAO3mvu&amp;start=1620" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 
 ### Campaign Types
 1. Search - To became top on Google search results
@@ -62,8 +56,6 @@ Note:- Campaign Subtype, Goals may change according to the selection of Campaign
 6. App - To get more app user base
 7. Smart - Run ads with few clicks by using google's automation 
 8. Discovery - Run ads on Gmail, Google Discover, YouTube and more
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o3kPguXNfS0?si=I0t0nI8zhbJ9S6p4&amp;start=1796" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ### Campaign Subtype
